@@ -27,5 +27,5 @@ This project uses surprise model to make recommendation system. We went on Kaggl
 
 # For More Information
 
-Please review our full analysis in our [Jupyter Notebook](./CQM_Phase1_Project.ipynb) or our [presentation](./Phase_1_PPT.pdf). For any additional questions please contact Daniel Blake at danielablake7@gmail.com, Qiwen Ou at qiwen.ou0721@gmail.com, and Gabriel Warner at gabrielkwarner@gmail.com.
+For any additional questions please contact Daniel Blake at danielablake7@gmail.com, Qiwen Ou at qiwen.ou0721@gmail.com, and Gabriel Warner at gabrielkwarner@gmail.com.
   
